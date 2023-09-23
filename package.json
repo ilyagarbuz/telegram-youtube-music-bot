@@ -1,0 +1,11 @@
+{
+  "name": "saver-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for download photo, video, music from social networks like YouTube, TikTok, Instagram ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilya Garbuz",
+  "license": "ISC"
+}
